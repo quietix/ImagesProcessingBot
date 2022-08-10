@@ -1,0 +1,1955 @@
+[
+    {
+        "update_id": 417235993,
+        "message": {
+            "message_id": 1998,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643144348,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236005,
+        "message": {
+            "message_id": 2018,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643146526,
+            "text": "/2bit",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236006,
+        "message": {
+            "message_id": 2019,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643146713,
+            "text": "/2bit",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236007,
+        "message": {
+            "message_id": 2020,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643146719,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236009,
+        "message": {
+            "message_id": 2023,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643202483,
+            "text": "/2bit",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236010,
+        "message": {
+            "message_id": 2024,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643202494,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236013,
+        "message": {
+            "message_id": 2029,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643203238,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236014,
+        "message": {
+            "message_id": 2030,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643203351,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236015,
+        "message": {
+            "message_id": 2031,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643207885,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236016,
+        "message": {
+            "message_id": 2032,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643207937,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236017,
+        "message": {
+            "message_id": 2033,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643207958,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236018,
+        "message": {
+            "message_id": 2034,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643208061,
+            "text": "/watersign",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236019,
+        "message": {
+            "message_id": 2035,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643208067,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236024,
+        "message": {
+            "message_id": 2043,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643208273,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236034,
+        "message": {
+            "message_id": 2055,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643208525,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236037,
+        "message": {
+            "message_id": 2060,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643209878,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236042,
+        "message": {
+            "message_id": 2067,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643210593,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236050,
+        "message": {
+            "message_id": 2085,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643214644,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236052,
+        "message": {
+            "message_id": 2091,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643214747,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236054,
+        "message": {
+            "message_id": 2095,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643214859,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236091,
+        "message": {
+            "message_id": 2304,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643294771,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236094,
+        "message": {
+            "message_id": 2311,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643294792,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236112,
+        "message": {
+            "message_id": 2362,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643296174,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236117,
+        "message": {
+            "message_id": 2371,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643296460,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236119,
+        "message": {
+            "message_id": 2375,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643296465,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236182,
+        "message": {
+            "message_id": 2587,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301139,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236184,
+        "message": {
+            "message_id": 2591,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301231,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236192,
+        "message": {
+            "message_id": 2620,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301634,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236193,
+        "message": {
+            "message_id": 2621,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301700,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236195,
+        "message": {
+            "message_id": 2625,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301710,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236197,
+        "message": {
+            "message_id": 2629,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301721,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236199,
+        "message": {
+            "message_id": 2633,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643301909,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236207,
+        "message": {
+            "message_id": 2654,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302130,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236208,
+        "message": {
+            "message_id": 2656,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643302191,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236209,
+        "message": {
+            "message_id": 2657,
+            "from": {
+                "id": 306493630,
+                "is_bot": false,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 306493630,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea"
+            },
+            "date": 1643302195,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236211,
+        "message": {
+            "message_id": 2661,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302222,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236213,
+        "message": {
+            "message_id": 2664,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302224,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236214,
+        "message": {
+            "message_id": 2665,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302230,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236218,
+        "message": {
+            "message_id": 2670,
+            "from": {
+                "id": 306493630,
+                "is_bot": false,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 306493630,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea"
+            },
+            "date": 1643302247,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236221,
+        "message": {
+            "message_id": 2677,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302305,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236223,
+        "message": {
+            "message_id": 2681,
+            "from": {
+                "id": 306493630,
+                "is_bot": false,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 306493630,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea"
+            },
+            "date": 1643302339,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236227,
+        "message": {
+            "message_id": 2688,
+            "from": {
+                "id": 306493630,
+                "is_bot": false,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 306493630,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea"
+            },
+            "date": 1643302371,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236230,
+        "message": {
+            "message_id": 2698,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643302435,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236233,
+        "message": {
+            "message_id": 2705,
+            "from": {
+                "id": 307201910,
+                "is_bot": false,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 307201910,
+                "first_name": "\u0421\u0435\u0440\u0433\u0456\u0439",
+                "username": "serSergiy"
+            },
+            "date": 1643302472,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236236,
+        "message": {
+            "message_id": 2712,
+            "from": {
+                "id": 306493630,
+                "is_bot": false,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 306493630,
+                "first_name": "\u041c\u0438\u0445\u0430\u0457\u043b",
+                "username": "hofovea"
+            },
+            "date": 1643302522,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236238,
+        "message": {
+            "message_id": 2716,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643302600,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236245,
+        "message": {
+            "message_id": 2735,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643302884,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236247,
+        "message": {
+            "message_id": 2739,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643302986,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236249,
+        "message": {
+            "message_id": 2743,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643303448,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236284,
+        "message": {
+            "message_id": 2897,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643310699,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236286,
+        "message": {
+            "message_id": 2901,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643310708,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236288,
+        "message": {
+            "message_id": 2905,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643310721,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236290,
+        "message": {
+            "message_id": 2909,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643310729,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236293,
+        "message": {
+            "message_id": 2915,
+            "from": {
+                "id": 332832026,
+                "is_bot": false,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 332832026,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy"
+            },
+            "date": 1643310786,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236300,
+        "message": {
+            "message_id": 2931,
+            "from": {
+                "id": 332832026,
+                "is_bot": false,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 332832026,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy"
+            },
+            "date": 1643310893,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236302,
+        "message": {
+            "message_id": 2936,
+            "from": {
+                "id": 332832026,
+                "is_bot": false,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy",
+                "language_code": "en"
+            },
+            "chat": {
+                "id": 332832026,
+                "first_name": "Yurriy",
+                "username": "zaberezhniy"
+            },
+            "date": 1643310953,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236317,
+        "message": {
+            "message_id": 2951,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311482,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236319,
+        "message": {
+            "message_id": 2955,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311492,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236321,
+        "message": {
+            "message_id": 2959,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311505,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236323,
+        "message": {
+            "message_id": 2963,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311512,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236325,
+        "message": {
+            "message_id": 2967,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311561,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236327,
+        "message": {
+            "message_id": 2971,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643311797,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236331,
+        "message": {
+            "message_id": 2981,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323383,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236334,
+        "message": {
+            "message_id": 2988,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323403,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236336,
+        "message": {
+            "message_id": 2992,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323429,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236338,
+        "message": {
+            "message_id": 2996,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323448,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236341,
+        "message": {
+            "message_id": 3003,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323488,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236343,
+        "message": {
+            "message_id": 3007,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323512,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236346,
+        "message": {
+            "message_id": 3014,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323552,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236348,
+        "message": {
+            "message_id": 3018,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323570,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236350,
+        "message": {
+            "message_id": 3022,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "Ivan",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1643323581,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236354,
+        "message": {
+            "message_id": 3028,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643374974,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236355,
+        "message": {
+            "message_id": 3029,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643375044,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236370,
+        "message": {
+            "message_id": 3058,
+            "from": {
+                "id": 784208321,
+                "is_bot": false,
+                "first_name": "Artem",
+                "username": "lun_tema",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 784208321,
+                "first_name": "Artem",
+                "username": "lun_tema"
+            },
+            "date": 1643629593,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236372,
+        "message": {
+            "message_id": 3062,
+            "from": {
+                "id": 784208321,
+                "is_bot": false,
+                "first_name": "Artem",
+                "username": "lun_tema",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 784208321,
+                "first_name": "Artem",
+                "username": "lun_tema"
+            },
+            "date": 1643629727,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236375,
+        "message": {
+            "message_id": 3068,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643636548,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236378,
+        "message": {
+            "message_id": 3075,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643636597,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236380,
+        "message": {
+            "message_id": 3079,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643636669,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236382,
+        "message": {
+            "message_id": 3083,
+            "from": {
+                "id": 663771983,
+                "is_bot": false,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 663771983,
+                "first_name": "Oksana",
+                "username": "Oksana_Zashchyk"
+            },
+            "date": 1643636722,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236387,
+        "message": {
+            "message_id": 3096,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1647296968,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236389,
+        "message": {
+            "message_id": 3100,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1647296984,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236391,
+        "message": {
+            "message_id": 3104,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1647296994,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236393,
+        "message": {
+            "message_id": 3108,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u0456\u0441\u043c\u0435\u043d \u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1647297082,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236399,
+        "message": {
+            "message_id": 3116,
+            "from": {
+                "id": 642501963,
+                "is_bot": false,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 642501963,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn"
+            },
+            "date": 1649458754,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236401,
+        "message": {
+            "message_id": 3120,
+            "from": {
+                "id": 642501963,
+                "is_bot": false,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 642501963,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn"
+            },
+            "date": 1649458772,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236405,
+        "message": {
+            "message_id": 3130,
+            "from": {
+                "id": 642501963,
+                "is_bot": false,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 642501963,
+                "first_name": "\u041e\u043b\u0435\u0441\u044c",
+                "username": "oleskuchyn"
+            },
+            "date": 1649459121,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236407,
+        "message": {
+            "message_id": 3134,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1649459206,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236409,
+        "message": {
+            "message_id": 3138,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "ivan_zashchyk"
+            },
+            "date": 1649459340,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236419,
+        "message": {
+            "message_id": 3161,
+            "from": {
+                "id": 395578806,
+                "is_bot": false,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "right_blinder",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 395578806,
+                "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
+                "username": "right_blinder"
+            },
+            "date": 1657919223,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236422,
+        "message": {
+            "message_id": 3167,
+            "from": {
+                "id": 445223217,
+                "is_bot": false,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 445223217,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv"
+            },
+            "date": 1657919293,
+            "text": "/inversion",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236424,
+        "message": {
+            "message_id": 3171,
+            "from": {
+                "id": 445223217,
+                "is_bot": false,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 445223217,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv"
+            },
+            "date": 1657919317,
+            "text": "/blure",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236426,
+        "message": {
+            "message_id": 3175,
+            "from": {
+                "id": 445223217,
+                "is_bot": false,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 445223217,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv"
+            },
+            "date": 1657919346,
+            "text": "/clarity",
+            "type": "bot_command"
+        }
+    },
+    {
+        "update_id": 417236428,
+        "message": {
+            "message_id": 3179,
+            "from": {
+                "id": 445223217,
+                "is_bot": false,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv",
+                "language_code": "uk"
+            },
+            "chat": {
+                "id": 445223217,
+                "first_name": "Oleksandr",
+                "username": "Oleksandr_Kyiv"
+            },
+            "date": 1657919386,
+            "text": "/sobel",
+            "type": "bot_command"
+        }
+    }
+]
