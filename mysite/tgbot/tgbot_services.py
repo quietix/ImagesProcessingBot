@@ -161,6 +161,41 @@ class Photo_service_class:
         return new_photo_path
 
 
+    @staticmethod
+    def into_2bit(photo_path, request_body):
+        array = request_body['message']['photo']
+        len1 = len(array)
+        file_id = request_body['message']['photo'][len1 - 1]['file_id']
+        image = Image.open(f'{photo_path}').convert('RGB')
+        width, height = image.size
+        for i in range(width):
+            for j in range(height):
+                (red, green, blue) = image.getpixel((i, j))
+
+                if red > 127:
+                    new_red = 255
+                else:
+                    new_red = 0
+
+                if green > 127:
+                    new_green = 255
+                else:
+                    new_green = 0
+
+                if blue > 127:
+                    new_blue = 255
+                else:
+                    new_blue = 0
+
+                (new_red, new_green, new_blue) = checkPixelBorders(new_red, new_green, new_blue)
+                image.load()
+                image.putpixel((i, j), (new_red, new_green, new_blue))
+
+        new_photo_path = f'{file_id}.png'
+        image.save(f'{new_photo_path}')
+        return new_photo_path
+
+
 def set_X_Y(k, l, i, j, width, height):
     x = k + i
     y = l + j
@@ -182,14 +217,13 @@ class Commands_service_class:
         else:
             return False
 
-    def find_user_last_command(self, data, request_body):
+    def find_user_last_command(self, loaded_file, request_body):
         chat_id = request_body['message']['chat']['id']
         username = request_body['message']['from']['username']
-        data.reverse()
-        index = 0
-        for i in range(len(data)):
-            if username == data[i]['message']['from']['username'] and self.is_command(data[i]['message']['text']):
-                return data[i]['message']['text']
+        loaded_file.reverse()
+        for i in range(len(loaded_file)):
+            if username == loaded_file[i]['message']['from']['username'] and self.is_command(loaded_file[i]['message']['text']):
+                return loaded_file[i]['message']['text']
         sendMessage(chat_id, "Error")
 
     @staticmethod
@@ -198,22 +232,24 @@ class Commands_service_class:
         if last_command == commands[2]:
             new_photo_path = Photo_service_class.invertion(photo_path, request_body)
             send_photo(request_body, new_photo_path)
-        if last_command == commands[3]:
+        elif last_command == commands[3]:
             new_photo_path = Photo_service_class.blure(photo_path, request_body)
             send_photo(request_body, new_photo_path)
-        if last_command == commands[6]:
+        elif last_command == commands[6]:
             new_photo_path = Photo_service_class.sobel(photo_path, request_body)
             send_photo(request_body, new_photo_path)
-        if last_command == commands[4]:
+        elif last_command == commands[4]:
             new_photo_path = Photo_service_class.clarity(photo_path, request_body)
+            send_photo(request_body, new_photo_path)
+        elif last_command == commands[7]:
+            new_photo_path = Photo_service_class.into_2bit(photo_path, request_body)
             send_photo(request_body, new_photo_path)
 
 
     def clean_data_file(self):
         with open('data.json', 'r') as rd:
             data_list: list = json.load(rd)
-            if len(data_list) > 150:
-                del data_list[:10]
+            del data_list[:len(data_list) - 1]
 
         with open('data.json', 'w') as fp:
             json.dump(data_list, fp, indent=4)
@@ -224,7 +260,6 @@ class Commands_service_class:
         data_list = list()
 
         if 'text' in request_body['message']:
-            # self.clean_data_file()     TODO
             text = request_body['message']['text']
             command = text.split()
             if command[0] == commands[0] or command[0] == commands[1]:
@@ -264,6 +299,7 @@ class Commands_service_class:
             sending_message_text = f'Executing {last_command}'
             sendMessage(chat_id, sending_message_text)
             self.execute_last_command(last_command, request_body)
+            self.clean_data_file()
         else:
             sendMessage(chat_id, "You sent me some дічь")
 
