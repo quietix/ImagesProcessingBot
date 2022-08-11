@@ -33,7 +33,7 @@ class Photo_service_class:
                 image.load()
                 image.putpixel((i, j), (new_red, new_green, new_blue))
 
-        new_photo_path = f'C:\\AAAFolder\\{file_id}.png'
+        new_photo_path = f'{file_id}.png'
         image.save(f'{new_photo_path}')
         return new_photo_path
 
@@ -67,7 +67,7 @@ class Photo_service_class:
                 resB = arrayB[4]
                 (resR, resG, resB) = checkPixelBorders(resR, resG, resB)
                 inputImage.putpixel((k, l), (resR, resG, resB))
-        new_photo_path = f'C:\\AAAFolder\\{file_id}.png'
+        new_photo_path = f'{file_id}.png'
         inputImage.save(f'{new_photo_path}')
         return new_photo_path
 
@@ -97,7 +97,7 @@ class Photo_service_class:
                         resB += blue * specific_matrix[j][i]
                 (resR, resG, resB) = checkPixelBorders(resR, resG, resB)
                 inputImage.putpixel((k, l), (resR, resG, resB))
-        new_photo_path = f'C:\\AAAFolder\\{file_id}.png'
+        new_photo_path = f'{file_id}.png'
         inputImage.save(f'{new_photo_path}')
         return new_photo_path
 
@@ -126,7 +126,7 @@ class Photo_service_class:
                         resB += int((blue * specific_matrix[j][i]))
                 (resR, resG, resB) = checkPixelBorders(resR, resG, resB)
                 inputImage.putpixel((k, l), (resR, resG, resB))
-        new_photo_path = f'C:\\AAAFolder\\{file_id}.png'
+        new_photo_path = f'{file_id}.png'
         inputImage.save(f'{new_photo_path}')
         return new_photo_path
 
@@ -156,7 +156,7 @@ class Photo_service_class:
                         resB += int((blue * specific_matrix[j][i]) / 16)
                 (resR, resG, resB) = checkPixelBorders(resR, resG, resB)
                 inputImage.putpixel((k, l), (resR, resG, resB))
-        new_photo_path = f'C:\\AAAFolder\\{file_id}.png'
+        new_photo_path = f'{file_id}.png'
         inputImage.save(f'{new_photo_path}')
         return new_photo_path
 
@@ -209,10 +209,22 @@ class Commands_service_class:
             send_photo(request_body, new_photo_path)
 
 
+    def clean_data_file(self):
+        with open('data.json', 'r') as rd:
+            data_list: list = json.load(rd)
+            if len(data_list) > 150:
+                del data_list[:10]
+
+        with open('data.json', 'w') as fp:
+            json.dump(data_list, fp, indent=4)
+
+
     def commands_service_def(self, request_body):
         chat_id = request_body['message']['chat']['id']
         data_list = list()
+
         if 'text' in request_body['message']:
+            # self.clean_data_file()     TODO
             text = request_body['message']['text']
             command = text.split()
             if command[0] == commands[0] or command[0] == commands[1]:
@@ -244,6 +256,7 @@ class Commands_service_class:
                 data_list.append(data_elem)
                 with open('data.json', 'w') as fp:
                     json.dump(data_list, fp, indent=4)
+
         elif 'photo' in request_body['message']:
             with open('data.json', 'r') as rd:
                 loaded_file = json.load(rd)
@@ -297,7 +310,7 @@ def downloadImage(request_body):
     array = request_body['message']['photo']
     len1 = len(array)
     file_id = request_body['message']['photo'][len1 - 1]['file_id']
-    path = f'C:\\AAAFolder\\{file_id}.png'
+    path = f'{file_id}.png'
     bot.download_file(file_id, f'{path}')
     return path
 
