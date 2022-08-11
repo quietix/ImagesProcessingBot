@@ -6,8 +6,8 @@ import telepot
 
 token = '5099222715:AAFChikYgr5R3m0ezz9H0jhHVnKdInvrtGo'
 bot = telepot.Bot(token)
-
-commands = ['/start', '/help', '/inversion', '/blure', '/clarity', '/median', '/sobel', '/2bit', '/watersign']
+            #0          #1          #2          #3          #4          #5      #6          #7          #8         #9
+commands = ['/start', '/help', '/inversion', '/blure', '/clarity', '/median', '/sobel', '/2bit', '/watersign', '/gray']
 
 
 # invertion, blure, sobel, clarity, medial (is not in real commands in tg because of error in working)
@@ -172,22 +172,57 @@ class Photo_service_class:
             for j in range(height):
                 (red, green, blue) = image.getpixel((i, j))
 
-                if red > 127:
-                    new_red = 255
+                avarage = (red + green + blue) / 3
+                if avarage > 127:
+                    new_red = new_green = new_blue = 255
                 else:
-                    new_red = 0
-
-                if green > 127:
-                    new_green = 255
-                else:
-                    new_green = 0
-
-                if blue > 127:
-                    new_blue = 255
-                else:
-                    new_blue = 0
+                    new_red = new_green = new_blue = 0
 
                 (new_red, new_green, new_blue) = checkPixelBorders(new_red, new_green, new_blue)
+                image.load()
+                image.putpixel((i, j), (new_red, new_green, new_blue))
+
+        new_photo_path = f'{file_id}.png'
+        image.save(f'{new_photo_path}')
+        return new_photo_path
+
+    @staticmethod
+    def gray(photo_path, request_body):
+        array = request_body['message']['photo']
+        len1 = len(array)
+        file_id = request_body['message']['photo'][len1 - 1]['file_id']
+        image = Image.open(f'{photo_path}').convert('RGB')
+        width, height = image.size
+        for i in range(width):
+            for j in range(height):
+                (red, green, blue) = image.getpixel((i, j))
+
+                avarage = (red + green + blue) / 3
+                new_red = new_green = new_blue = avarage.__round__()
+
+                (new_red, new_green, new_blue) = checkPixelBorders(new_red, new_green, new_blue)
+                image.load()
+                image.putpixel((i, j), (new_red, new_green, new_blue))
+
+        new_photo_path = f'{file_id}.png'
+        image.save(f'{new_photo_path}')
+        return new_photo_path
+
+    @staticmethod
+    def into_8bit(photo_path, request_body):
+        array = request_body['message']['photo']
+        len1 = len(array)
+        file_id = request_body['message']['photo'][len1 - 1]['file_id']
+        image = Image.open(f'{photo_path}').convert('RGB')
+        width, height = image.size
+        for i in range(width):
+            for j in range(height):
+                (red, green, blue) = image.getpixel((i, j))
+
+                new_color = 0.299 * red + 0.587 * green + 0.114 * blue
+                new_color = new_color.__round__()
+
+                (new_red, new_green, new_blue) = checkPixelBorders(new_color, new_color, new_color)
                 image.load()
                 image.putpixel((i, j), (new_red, new_green, new_blue))
 
@@ -243,6 +278,9 @@ class Commands_service_class:
             send_photo(request_body, new_photo_path)
         elif last_command == commands[7]:
             new_photo_path = Photo_service_class.into_2bit(photo_path, request_body)
+            send_photo(request_body, new_photo_path)
+        elif last_command == commands[9]:
+            new_photo_path = Photo_service_class.gray(photo_path, request_body)
             send_photo(request_body, new_photo_path)
 
 
