@@ -1,8 +1,8 @@
 [
     {
-        "update_id": 417236574,
+        "update_id": 417236577,
         "message": {
-            "message_id": 3443,
+            "message_id": 3449,
             "from": {
                 "id": 395578806,
                 "is_bot": false,
@@ -15,8 +15,8 @@
                 "first_name": "\u0406\u0432\u0430\u043d \ud83c\uddfa\ud83c\udde6",
                 "username": "right_blinder"
             },
-            "date": 1660231528,
-            "text": "/clarity",
+            "date": 1660231676,
+            "text": "/inversion",
             "type": "bot_command"
         }
     }
