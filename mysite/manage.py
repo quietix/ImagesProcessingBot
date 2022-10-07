@@ -4,10 +4,9 @@
 import telepot
 
 
-token = '5099222715:AAFChikYgr5R3m0ezz9H0jhHVnKdInvrtGo'
+// token deleted
 
 
 TelegramBot = telepot.Bot(token)
 telepot.Bot(token).deleteWebhook()
-telepot.Bot(token).setWebhook('https://images-processing-bot.herokuapp.com/')
-
+// link deleted
